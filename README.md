@@ -48,6 +48,7 @@ The goal is to help businesses understand why customers leave and improve retent
 - Improve service for high-risk customers
 - Monitor customers with high monthly charges
 
-##Dashboard Preview
+---
+**Dashboard Preview**
 ![Customer Churn Dashboard](customer_churn_dashboard_view.png)
 
