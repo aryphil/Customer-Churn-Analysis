@@ -35,5 +35,5 @@ Improve services for high-risk customers
 Monitor customers with high monthly charges
 
 ##Dashboard Preview
-![Customer Churn Dashboard](Customer_Churn_Dashboard.png)
+![Customer Churn Dashboard](screenshots/Customer_Churn_Dashboard.png)
 
